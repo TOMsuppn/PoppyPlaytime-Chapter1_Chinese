@@ -1,2 +1,2 @@
-# PoppyPlaytimeChapter1-
+# PoppyPlaytimeChapter1_Chinese
 PoppyPlaytimeChapter1（波比的游戏时间第一章）简体中文汉化项目
