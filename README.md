@@ -1,7 +1,7 @@
 # PoppyPlaytime:第一章 中文汉化项目
 本项目开源免费，采用MIT License协议
 
-制作人：[TOMsuppn](https://space.bilibili.com/454944513)
+制作者：[TOMsuppn](https://space.bilibili.com/454944513)
 
 ![项目封面](https://github.com/user-attachments/assets/833a2c6d-0622-410c-ac3e-3968b7dd4808)
 
