@@ -1,4 +1,4 @@
-# PoppyPlaytime:第一章 中文汉化项目
+# PoppyPlaytime:第一章 简体中文化项目
 本项目开源免费，采用MIT License协议
 
 制作者：[TOMsuppn](https://space.bilibili.com/454944513)
