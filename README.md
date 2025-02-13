@@ -25,6 +25,6 @@
 ```
 
 ## AES-KEY
-如果你想对改游戏做进一步的汉化，可以通过此AES-KEY解锁原Pak的访问权限
+如果你想对游戏做进一步汉化，可以通过此AES-KEY解锁原Pak的访问权限
 
 AES-KEY:```0xD4BCF215F3B33A4BAA8D52139F1F49E92DF5BF8C7262C823E846AA6D79331FBC```
