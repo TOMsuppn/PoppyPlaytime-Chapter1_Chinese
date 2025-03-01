@@ -49,7 +49,7 @@
 /63349DF54E6CE1EDC72FB7BDC39BF78C,"Coordination and cooperation is evidently within his skillset,",协调与合作很显然在他的能力范围之内
 /3A427DC042B7D97770E23C81584B2D1B,DISPLAY,显示设置
 /3FBCCF354EAF9A299F9387BA091E572B,Death isn't permanent,死亡不是终点
-/7788DD8548F4F9669EAA27B103030C1A,"Desired screen mode. Borderless is recommended. ",选择所需的显示模式，推荐使用无边框窗口
+/7788DD8548F4F9669EAA27B103030C1A,Desired screen mode. Borderless is recommended. ,选择所需的显示模式，推荐使用无边框窗口
 /648ED1C845F63A0D3D5DF393850D349F,Don't die just yet,现在还不能死
 /7D1849714DB8B1B9C68DDCB78A5B6DEB,Don't let them inside,别让他们进来
 /E267420C430DA6CCD5767594965A56E8,Entrance,入口
@@ -160,7 +160,7 @@
 /4F02472C44AA5A44987F2A80E614BEB5,SCREEN,显示模式
 /75085068461FE739DD1F1483DF2BC082,SETTINGS,设置
 /EDB219FB4DBCFD78C15E27AF7D5F33ED,SETTINGS,设置
-/8CAE31114FB0D54928012CAFE325D648,"SETTINGS ",设置
+/8CAE31114FB0D54928012CAFE325D648,SETTINGS ,设置
 /25B7AC2340D279F9DF7938ABEEC95130,SKIP,跳过
 /4E95250D484E916B2E8A84898E2D2C53,SKIP,跳过
 /AA3574EF4DA107E46C6AAD846FC0CDEB,SOUND VOLUME,声音音量
@@ -174,9 +174,9 @@
 /0FA1E55543384E35AFEFC191948F15FC,"Screen Resolution in Width x Height. On fullscreen, if resolution does not match device resolution, it will be upscaled/downscaled. ",屏幕分辨率：在全屏模式下，如果分辨率与设备分辨率不匹配，则将放大/缩小
 /BE6E3DE3478312E5399BE693DBB18688,Security Room,安保室
 /091414984085B34AE1F143A3FA2DE3F6,"Sets crouch input method. Either toggle crouching on and off with the crouch button, or hold the button down to crouch.",设置下蹲的操作：改为「切换」时将变为【按键切换】下蹲的状态，改为「按住」时将变为【按住按键】进行下蹲
-/26230A204DCC4373C57D3591D761C6FB,"Sets graphics quality to desired fidelity. Higher quality may have a performance tradeoff. ",将图形质量设置为所需状态 更高的质量会牺牲部分性能
+/26230A204DCC4373C57D3591D761C6FB,Sets graphics quality to desired fidelity. Higher quality may have a performance tradeoff. ,将图形质量设置为所需状态 更高的质量会牺牲部分性能
 /53E278204839C5A3CDA15D9385298C08,"Sets sprint input method. Either toggle sprinting on and off with the sprint button, or hold the button down to sprint.",设置疾跑的操作：改为「切换」时将变为【按键切换】疾跑的状态，改为「按住」时将变为【按住按键】进行疾跑
-/7B60311B4DA5E0706ED61A8C581C6EA9,"Sets the Max FPS. ",设置最大帧数限制
+/7B60311B4DA5E0706ED61A8C581C6EA9,Sets the Max FPS. ,设置最大帧数限制
 /D5F71D544EF68901CF5A02B7AD1C55DA,She is the first doll actually able to,她是有史以来第一个能够与孩子
 /BB8E472B47B7C471488CFF9395CC7C0D,So I guess everyone is always young relative to something...,所以我觉得所有人都可以通过某种方法来变得年轻...
 /B2FF0A084F422C0505FFC6B8E663053C,So that the same mistake won't be made twice.,这样相同的错误就不会在犯第二次了
