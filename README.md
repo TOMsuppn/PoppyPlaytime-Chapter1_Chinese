@@ -25,6 +25,12 @@
 >
 >- [ ] 支持手机版（安卓）
 
+## 汉化效果预览
+
+![项目截图3](https://github.com/user-attachments/assets/e3208c97-7e73-4b6c-9f49-4108006205c0)
+![项目截图2](https://github.com/user-attachments/assets/c1860a16-f455-4896-8162-4d06ea28cab7)
+![项目截图1](https://github.com/user-attachments/assets/49a64bd2-eab3-4691-8487-ed589db8e1d1)
+
 ## AES-KEY
 如果你想对游戏做进一步汉化，可以通过此AES-KEY解锁原Pak的访问权限
 
