@@ -11,7 +11,9 @@
 ## 使用教程
 将下载好的可执行文件放在游戏文件夹```WindowsNoEditor```下，并执行文件选择覆盖
 
-[视频教程](https://www.bilibili.com/video/BV1fnKWeMEiq)
+⬇️⬇️⬇️视频教程⬇️⬇️⬇️
+
+[![](https://github.com/user-attachments/assets/2f9e98b8-534e-4c29-989b-6efd1a3100e8)](https://www.bilibili.com/video/BV1fnKWeMEiq)
 
 ## 当前更新计划
 
