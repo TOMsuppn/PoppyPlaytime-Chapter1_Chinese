@@ -11,7 +11,7 @@
 ## 使用教程
 将下载好的可执行文件放在游戏文件夹```WindowsNoEditor```下，并执行文件选择覆盖
 
-⬇️⬇️⬇️视频教程⬇️⬇️⬇️
+⬇️⬇️⬇️视频教程(点击播放)⬇️⬇️⬇️
 
 [![](https://github.com/user-attachments/assets/2f9e98b8-534e-4c29-989b-6efd1a3100e8)](https://www.bilibili.com/video/BV1fnKWeMEiq)
 
@@ -19,9 +19,7 @@
 
 >- [x] 更新全部章节字幕文本的汉化
 >
->- [ ] 新增视频内容汉化
->
->- [ ] 新增图片文字汉化
+>- [x] 新增视频内容汉化
 >
 >- [ ] 新增语音汉化
 >
@@ -32,6 +30,7 @@
 ![项目截图3](https://github.com/user-attachments/assets/e3208c97-7e73-4b6c-9f49-4108006205c0)
 ![项目截图2](https://github.com/user-attachments/assets/c1860a16-f455-4896-8162-4d06ea28cab7)
 ![项目截图1](https://github.com/user-attachments/assets/49a64bd2-eab3-4691-8487-ed589db8e1d1)
+![项目截图4](https://github.com/user-attachments/assets/e7948ffa-9a3d-41b3-b37c-69542fbb6432)
 
 ## AES-KEY
 如果你想对游戏做进一步汉化，可以通过此AES-KEY解锁原Pak的访问权限
